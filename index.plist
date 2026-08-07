@@ -1,9 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>URL</key>
-	<string>blob:https://packager.turbowarp.org/d810700f-e14f-42b5-90c2-350c85b3f972</string>
-</dict>
-</plist>
-
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Craft — TurboWarp package</title>
+  <meta name="description" content="Open the Craft TurboWarp package." />
+  <!-- Replace the URL below with a permanent URL (see notes) -->
+  <meta http-equiv="refresh" content="0;url=https://packager.turbowarp.org/your-exported-file.html" />
+</head>
+<body>
+  <main>
+    <h1>Opening Craft package…</h1>
+    <p>If you are not redirected automatically, <a href="https://packager.turbowarp.org/your-exported-file.html">click here to open the package</a>.</p>
+    <p>Note: blob: URLs are created by a browser session and cannot be relied on — see repository README for hosting instructions.</p>
+  </main>
+</body>
+</html>
